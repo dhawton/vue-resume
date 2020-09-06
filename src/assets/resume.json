@@ -1,0 +1,176 @@
+{
+  "sections": {
+    "sidebar": {
+      "info": {
+        "title": "Information",
+        "items": [
+          {
+            "name": "Email",
+            "icon": "mdi-email",
+            "text": "daniel@hawton.com"
+          },
+          {
+            "name": "Website",
+            "icon": "mdi-web",
+            "text": "https://hawton.io",
+            "link": true
+          },
+          {
+            "name": "Location",
+            "icon": "mdi-map-marker",
+            "text": "Grapevine, TX"
+          }
+        ]
+      },
+      "social": {
+        "title": "Social",
+        "items": [
+          {
+            "name": "Github",
+            "icon": "mdi-github",
+            "text": "https://github.com/dhawton",
+            "link": true
+          },
+          {
+            "name": "LinkedIn",
+            "icon": "mdi-linkedin",
+            "text": "https://www.linkedin.com/in/danielhawton/",
+            "link": true
+          },
+          {
+            "name": "Facebook",
+            "icon": "mdi-facebook",
+            "text": "https://www.facebook.com/danielhawton",
+            "link": true
+          }
+        ]
+      }
+    },
+    "content": {
+      "about": {
+        "body": "Experience administering RPM-based and Debian-based Linux distributions and FreeBSD servers. Experience administering Apache and Nginx web servers. Experience working with LUA, C#, Git, sqlite, MySQL, PHP, Perl, HTML, CSS, JavaScript, Bash Shell Scripting, VueJS, Laravel and jQuery and a progressing knowledge of Java, Golang, ReactJS and Python"
+      },
+      "experience": [
+        {
+          "title": "Support Engineer",
+          "company": "AppGate",
+          "location": "Addison, TX",
+          "dates": {
+            "from": "Dec 2019",
+            "to": "Present"
+          },
+          "duties": [
+            "Providing technical support for customers using the Brainspace Application, preparing their infrastructure and installation/upgrade of the application",
+            "Help develop and improve application documentation",
+            "Create internal training documentation for 3rd party applications utilized",
+            "Develop and maintain shell scripts that assist with preinstallation infrastructure checks, preparing version releases for dissemination to customers, reporting tools for clients, and demonstrate API usage",
+            "Aid in the testing of each release before dissemination to clients",
+            "Work with the development team and 3rd party vendors such as Relativity and Nuix toresolve issues that arose with client systems"
+          ]
+        },
+        {
+          "title": "Owner",
+          "company": "NameItCreateIt, LLC",
+          "location": "Fairbanks, AK",
+          "dates": {
+            "from": "Dec 2016",
+            "to": "Dec 2019"
+          },
+          "duties": [
+            "Administer the Ubuntu based web servers running NodeJS-based backend APIs, a Laravel and Vue-based frontend, MySQL database backend",
+            "Services are on top of a Docker and Kubernetes virtualization layer utilizing Rancher",
+            "Administer the 4 nameservers, which are PowerDNS based and utilize a Galera-powered cluster of MySQL database servers to feed zone records to the nameservers",
+            "Oversee the administration of Ubuntu installations for client projects, apply security patches, and maintain the database, webserver, and other services as directed by the client’s contract"
+          ]
+        },
+        {
+          "title": "Air Traffic Controller, Certified Professional Controller",
+          "company": "Federal Aviation Administration",
+          "location": "Barrow, Deadhorse and Fairbanks, AK",
+          "dates": {
+            "from": "July 2015",
+            "to": "Nov 2019"
+          },
+          "duties": [
+            "Provide weather briefing services to pilots conduct flights across the state of Alaska",
+            "Prepare, file and disseminate flight plan information for pilots conducting flights into, through or out of Alaska.",
+            "Provide briefings, inquiry resolution and flight plan filing in person, over the phone or over radio frequencies.",
+            "Prepare, disseminate and coordinate information regarding locating and initiating Search and Rescue for missing aircraft.",
+            "Cross trained at Barrow and Deadhorse, AK"
+          ]
+        },
+        {
+          "title": "Lead Developer",
+          "company": "AirCharts.Org",
+          "location": "Online, Volunteer",
+          "dates": {
+            "from": "Jun 2011",
+            "to": "Sept 2018"
+          },
+          "duties": [
+            "A site created for Flight Simulation hobbyists to have quick and easy access to aviation charts",
+            "Utilizing PHP, Git, Laravel, MySQL and Amazon AWS, created a search engine-like site featuring over 6000 lines of code including self healing, error detection, creation of \"spiders\" to retrieve aviation charts and store in Amazon AWS S3 buckets.",
+            "Created an interface ability to allow external programs access to the AirCharts database and the aeronautical charts",
+            "Created and maintained the mobile interface utilizing ReactJS."
+          ]
+        },
+        {
+          "title": "Data Services Manager",
+          "company": "Virtual Air Traffic Simulation Network (VATSIM), USA Division",
+          "location": "Online, Volunteer",
+          "dates": {
+            "from": "Jan 2015",
+            "to": "May 2018"
+          },
+          "duties": [
+            "Oversaw a team of 4 people in the creation, management and maintenance of the IT systems used by the members of VATSIM",
+            "Rebuilt the public facing website from the original PHPv3 to Laravel",
+            "Created a public facing API for use within the organization, and documented using Swagger",
+            "Converted the website from an expired IPBoard licensed environment to SMF",
+            "Containerized the environments running within Docker Swarm",
+            "Open sourced all systems used by the division (https://github.com/vatusa)"
+          ]
+        },
+        {
+          "title": "Air Traffic Controller, 1st Class",
+          "company": "US Navy",
+          "location": "Various, last was USS George Washington, Yokosuka, JP",
+          "dates": {
+            "from": "Oct 2008",
+            "to": "Apr 2015"
+          },
+          "duties": [
+            "Was trained and certified at 3 Air Traffic Control facilities (NAS Pensacola, USS George Washington, and Iwo Jima).",
+            "Provided Air Traffic Control services to aircraft in the air and on the ground.",
+            "From 2010-2012, was responsible for the Training Program for my shift at NAS Pensacola and oversaw training and progression of young sailors and certification of instructors",
+            "From 2014-2015, was the 3M Work Center Supervisor responsible for overseeing maintenance in 24 shipboard compartments, 35 maintenance personnel, 1,800 yearly maintenance checks, 120 quality assurance checks, and 76 qualifications. Planned, disseminated and oversaw over 3,000 hours of compartment upkeep during pier-side time in preparation for deployment. Implemented a training program that resulted in zero discrepancies during the Navy Region’s Maintenance Inspection."
+          ]
+        }
+      ],
+      "certifications": [
+        "ITIL Foundation",
+        "CIW Site Development Associate",
+        "CIW Advanced HTML5/CSS3 Specialist",
+        "RedHat Certified System Administrator"
+      ],
+      "education": [
+        {
+          "school": "Western Governor's University",
+          "program": "BS Information Technology, Software Development",
+          "dates": {
+            "from": "Apr 2019",
+            "to": "Present"
+          }
+        },
+        {
+          "school": "Irvine Valley College",
+          "program": "General Education courses",
+          "dates": {
+            "from": "Aug 2004",
+            "to": "May 2008"
+          }
+        }
+      ]
+    }
+  }
+}

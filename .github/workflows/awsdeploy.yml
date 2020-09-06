@@ -1,8 +1,7 @@
 name: 'Amplify Deploy'
-on: [
+on:
   push:
     branches: [ master ]
-]
 
 jobs:
   build:
